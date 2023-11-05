@@ -1,6 +1,12 @@
 {
-    "hymnals":[
-        "adeb-guarai-irmas",
-        "cindactai"
+    "hymnals": [
+        {
+            "name": "Conjunto Adoração",
+            "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json"
+        },
+        {
+            "name":"CINDACTA I",
+            "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json"
+        }
     ]
 }
