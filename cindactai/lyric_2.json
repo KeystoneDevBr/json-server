@@ -5,10 +5,11 @@
     "singer": "Asaph Borba"
   },
   "url": "https://www.youtube.com/watch?v=mEjzy2lDY_o",
-  "isCorus": [
+  "lyric":" Seja engrandecido Oh Deus da minha vida Tu és o Deus da minha salvação És a minha rocha, a minha segurança Meus lábios sempre te exaltarão Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Seja engrandecido Oh Deus da minha vida Tu és o Deus da minha salvação És a minha rocha, a minha segurança Meus lábios sempre te exaltarão Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Aleluia, aleluia, Aleluia, louvemos ao Senhor Aleluia , aleluia,  Aleluia, louvemos ao Senhor",
+  "paragraphCorus": [
     false
   ],
-  "data": [
+  "paragraph": [
     " Seja engrandecido Oh Deus da minha vida Tu és o Deus da minha salvação És a minha rocha, a minha segurança Meus lábios sempre te exaltarão",
     " Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor Aleluia (aleluia), te louvo (te louvo) Pois sei que sobre todos és Senhor",
     " Seja engrandecido Oh Deus da minha vida Tu és o Deus da minha salvação És a minha rocha, a minha segurança Meus lábios sempre te exaltarão",
@@ -17,3 +18,5 @@
     " Aleluia, aleluia, Aleluia, louvemos ao Senhor Aleluia , aleluia,  Aleluia, louvemos ao Senhor"
   ]
 }
+
+
