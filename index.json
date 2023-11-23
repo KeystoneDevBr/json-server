@@ -1,8 +1,20 @@
 {
     "hymnals": [
         {
+            "name":"ZZZZZZ",
+            "slug": "cindactai",
+            "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
+            "urlSufix": "/cindactai/index.json"
+        },
+        {
             "name": "Conjunto Adoração",
             "slug": "conjunto_adoracao",
+            "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
+            "urlSufix": "/cindactai/index.json"
+        },
+        {
+            "name":"Adorar",
+            "slug": "cindactai",
             "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
             "urlSufix": "/cindactai/index.json"
         },
