@@ -1,11 +1,11 @@
 {
     "hymnal_name": "União Evangélica do CINDACTA I",
-    "logo": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/assets/logo.png",
-    "logo2x": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/assets/logo@2x.png",
-    "logo3x": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/assets/logo@3x.png",
+    "logo": "/cindactai/assets/logo.png",
+    "logo2x": "/cindactai/assets/logo@2x.png",
+    "logo3x": "/cindactai/assets/logo@3x.png",
     "Last_update": "2023-11-05 00:00:00",
     "number_of_lyrics": 99,
-    "url_base_of_lyric": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/lyric_",
-    "url_with_all_lyrics": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/lyric_00.json",
+    "url_base_of_lyric": "/cindactai/lyric_",
+    "url_with_all_lyrics": "/cindactai/lyric_00.json",
     "about": "Hinário Construído pelo Pr. Cintra e cifrado SO Teófilo, e Digitalizado pelo Sgt Fagne"
 }
