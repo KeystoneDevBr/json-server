@@ -2,6 +2,7 @@
     "hymnals_groups": [
         {
             "group_name": "União Evangélica FAB",
+            "data": ["CINDACTA I","BABR","GAP-DF","COMAE"],
             "hymnals": [
                 {
                     "name": "CINDACTA I",
@@ -31,6 +32,7 @@
         },
         {
             "group_name": "ADEB",
+            "data": ["Conjunto Varões","Conjunto Irmãs","Conjunto Jóvens","Conjunto Adolescente"],
             "hymnals": [
                 {
                     "name": "Conjunto Varões",
@@ -45,7 +47,7 @@
                     "urlSufix": "/cindactai/index.json"
                 },
                 {
-                    "name": "",
+                    "name": "Conjunto Jóvens",
                     "slug": "Conjunto Jóvens",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
