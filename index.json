@@ -1,7 +1,7 @@
 {
-    "hymnals_groups": {
-        "27d91f95-6fad-4be1-a655-f6f382616bb2":{
-            "id": "27d91f95-6fad-4be1-a655-f6f382616bb2",
+    "hymnals_groups": [
+        {
+            "group_id": "27d91f95-6fad-4be1-a655-f6f382616bb2",
             "group_name": "União Evangélica FAB",
             "data": ["CINDACTA I","BABR","GAP-DF","COMAE"],
             "hymnals": [
@@ -31,8 +31,8 @@
                 }
             ]
         },
-        "c9d5ec99-2572-469c-a927-c470661620c5":{
-            "id":"c9d5ec99-2572-469c-a927-c470661620c5",
+        {
+            "group_id":"c9d5ec99-2572-469c-a927-c470661620c5",
             "group_name": "ADEB",
             "data": ["Conjunto Varões","Conjunto Irmãs","Conjunto Jóvens","Conjunto Adolescente"],
             "hymnals": [
@@ -62,5 +62,5 @@
                 }
             ]
         }
-    }
+    ]
 }
