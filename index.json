@@ -38,7 +38,7 @@
             "hymnals": [
                 {
                     "name": "Conjunto Varões",
-                    "slug": "cindactai",
+                    "slug": "Conjunto_Varões",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 },
@@ -50,13 +50,13 @@
                 },
                 {
                     "name": "Conjunto Jóvens",
-                    "slug": "Conjunto Jóvens",
+                    "slug": "Conjunto_Jóvens",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 },
                 {
-                    "name": "CINDACTA I",
-                    "slug": "Conjunto Adolescente",
+                    "name": "Conjunto Adolescente",
+                    "slug": "Conjunto_Adolescente",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 }
