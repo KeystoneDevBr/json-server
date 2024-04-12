@@ -3,39 +3,39 @@
         {
             "group_id": "27d91f95-6fad-4be1-a655-f6f382616bb2",
             "group_name": "UNIÕES",
-            "data": ["CINDACTA I","BABR","GAP-DF","COMAE", "PMDF"],
+            "data": ["UNIDADE A","UNIDADE B","UNIDADE C","UNIDADE D", "UNIDADE E"],
             "hymnals": [
                 {
-                    "name": "CINDACTA I",
+                    "name": "UNIDADE A",
                     "slug": "/militares/cindactai",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 },
                 {
-                    "name": "BABR",
+                    "name": "UNIDADE B",
                     "slug": "/militares/cindactai",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 },
                 {
-                    "name": "GAP-DF",
+                    "name": "UNIDADE E",
                     "slug": "/militares/cindactai",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 },
                 {
-                    "name": "COMAE",
+                    "name": "UNIDADE D",
                     "slug": "/militares/cindactai",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 },
                 {
-                    "name": "PMDF",
+                    "name": "UNIDADE C",
                     "slug": "/militares/cindactai",
                     "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
                     "urlSufix": "/cindactai/index.json"
                 }
             ]
-        },
+        }
     ]
 }
