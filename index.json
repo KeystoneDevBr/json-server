@@ -36,6 +36,43 @@
                     "urlSufix": "/cindactai/index.json"
                 }
             ]
+        },
+        {
+            "group_id": "27d91f95-6fad-4be1-a655-f6f382616bb3",
+            "group_name": "OUTRAS UNIÕES",
+            "data": ["UNIDADE A","UNIDADE B","UNIDADE C","UNIDADE D", "UNIDADE E"],
+            "hymnals": [
+                {
+                    "name": "UNIDADE A",
+                    "slug": "/militares/cindactai",
+                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
+                    "urlSufix": "/cindactai/index.json"
+                },
+                {
+                    "name": "UNIDADE B",
+                    "slug": "/militares/cindactai",
+                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
+                    "urlSufix": "/cindactai/index.json"
+                },
+                {
+                    "name": "UNIDADE E",
+                    "slug": "/militares/cindactai",
+                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
+                    "urlSufix": "/cindactai/index.json"
+                },
+                {
+                    "name": "UNIDADE D",
+                    "slug": "/militares/cindactai",
+                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
+                    "urlSufix": "/cindactai/index.json"
+                },
+                {
+                    "name": "UNIDADE C",
+                    "slug": "/militares/cindactai",
+                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
+                    "urlSufix": "/cindactai/index.json"
+                }
+            ]
         }
     ]
 }
