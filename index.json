@@ -2,7 +2,7 @@
     "hymnals_groups": [
         {
             "group_id": "27d91f95-6fad-4be1-a655-f6f382616bb2",
-            "group_name": "Uniões Evangélicas Militares",
+            "group_name": "UNIÕES",
             "data": ["CINDACTA I","BABR","GAP-DF","COMAE", "PMDF"],
             "hymnals": [
                 {
@@ -37,36 +37,5 @@
                 }
             ]
         },
-        {
-            "group_id":"c9d5ec99-2572-469c-a927-c470661620c5",
-            "group_name": "Igreja ADEB Guará I",
-            "data": ["Conjunto Varões","Conjunto Irmãs","Conjunto Jóvens","Conjunto Adolescente"],
-            "hymnals": [
-                {
-                    "name": "Conjunto Varões",
-                    "slug": "/militares/cindactai",
-                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
-                    "urlSufix": "/cindactai/index.json"
-                },
-                {
-                    "name": "Conjunto Irmãs",
-                    "slug": "/militares/cindactai",
-                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
-                    "urlSufix": "/cindactai/index.json"
-                },
-                {
-                    "name": "Conjunto Jóvens",
-                    "slug": "/militares/cindactai",
-                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
-                    "urlSufix": "/cindactai/index.json"
-                },
-                {
-                    "name": "Conjunto Adolescente",
-                    "slug": "/militares/cindactai",
-                    "url": "https://raw.githubusercontent.com/KeystoneDevBr/JSON-Server/uriel/militares/cindactai/index.json",
-                    "urlSufix": "/cindactai/index.json"
-                }
-            ]
-        }
     ]
 }
